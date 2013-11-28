@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><sut>
+
+	<uia-client>
+        <class>com.ronyb.uia.client.infra.so.UiAutomatorTcpClient</class>
+		<uiaServerPort>3435</uiaServerPort>
+		<uiaServerCommandDelimiter>~~</uiaServerCommandDelimiter>
+    </uia-client>
+
+</sut>
